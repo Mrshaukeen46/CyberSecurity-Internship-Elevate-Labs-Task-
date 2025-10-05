@@ -55,16 +55,6 @@
 
 ---
 
-## Screenshot
-
-Please include a screenshot showing:
-- The suspicious email in your email client
-- Or the online header analysis results
-
-**Save the screenshot as**: `phishing_email_screenshot.png`
-
----
-
 ## Conclusion
 
 This email contains multiple classic phishing indicators such as sender spoofing, suspicious links, urgent language, and an unexpected attachment. Always verify emails from unknown sources and report suspected phishing to your IT/security team.
